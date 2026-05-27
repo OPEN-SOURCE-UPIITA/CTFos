@@ -73,7 +73,7 @@ cd CTFos
 2. Crea y muévete de inmediato a tu propia rama de trabajo personal:
 
 ```bash
-git checkout -b "nombre_apellido"
+git checkout -b nombre_apellido
 
 ```
 
