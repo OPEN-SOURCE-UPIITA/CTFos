@@ -142,7 +142,7 @@ El aprendizaje colaborativo implica solicitar apoyo en ocasiones; por lo tanto, 
 
 * `abcflag{ejemplo_de_bandera}` -> **Bandera obtenida de manera limpia:** El reto fue solucionado de forma autónoma leyendo documentación y manuales.
 * `abcflag{ejemplo_de_bandera}*` -> **Bandera obtenida con ayuda parcial:** Se requirió de alguna pista externa para destrabar el avance.
-* `abcflag{ejemplo_de_bandera}` -> **Bandera obtenida con ayuda completa:** El reto se resolvió siguiendo directamente un tutorial, una guía paso a paso o asistencia directa.
+* `abcflag{ejemplo_de_bandera}**` -> **Bandera obtenida con ayuda completa:** El reto se resolvió siguiendo directamente un tutorial, una guía paso a paso o asistencia directa.
 
 ---
 
