@@ -4,7 +4,7 @@
 
 ## Proyecto de Ciberseguridad
 
-Este es el repositorio oficial para el proyecto de ciberseguridad enfocado en soluciones Open Source y entrenamiento para competencias de Capture The Flag (CTF).
+Este es el repositorio oficial para el proyecto de ciberseguridad CTFos de la asociacion OpenSource UPIITA
 
 ---
 
@@ -27,7 +27,7 @@ Para formar parte activa de este proyecto, es indispensable configurar el entorn
 
 ### 1. Entorno Linux
 
-Deberás contar con una instalación funcional de Linux. Se recomiendan distribuciones orientadas a auditoría y pruebas de penetración, tales como:
+Se recomiendan distribuciones orientadas a auditoría y pruebas de penetración, tales como:
 
 * Kali Linux
 * Parrot OS
@@ -91,7 +91,7 @@ git add integrantes.txt
 
 2. Realiza el commit con un mensaje descriptivo:
 ```bash
-git commit -m "Add: Registro de Nombre Apellido al equipo"
+git commit -m "Registro de Nombre Apellido al equipo"
 
 ```
 
@@ -140,9 +140,9 @@ Buscamos que cada integrante desarrolle un pensamiento crítico y resuelva de fo
 
 El aprendizaje colaborativo implica solicitar apoyo en ocasiones; por lo tanto, el nivel de asistencia empleado se declarará de forma honesta en el archivo `Nombre_Apellido_flags.txt` utilizando la siguiente nomenclatura:
 
-* `abcflag{ejemplo_de_bandera}` -> **Bandera obtenida de manera limpia:** El reto fue solucionado de forma autónoma leyendo documentación y manuales.
-* `abcflag{ejemplo_de_bandera}*` -> **Bandera obtenida con ayuda parcial:** Se requirió de alguna pista externa para destrabar el avance.
-* `abcflag{ejemplo_de_bandera}**` -> **Bandera obtenida con ayuda completa:** El reto se resolvió siguiendo directamente un tutorial, una guía paso a paso o asistencia directa.
+* `flag{ejemplo_de_bandera}` -> **Bandera obtenida de manera limpia:** El reto fue solucionado de forma autónoma leyendo documentación y manuales.
+* `flag{ejemplo_de_bandera}*` -> **Bandera obtenida con ayuda parcial:** Se requirió de alguna pista externa para destrabar el avance.
+* `flag{ejemplo_de_bandera}**` -> **Bandera obtenida con ayuda completa:** El reto se resolvió siguiendo directamente un tutorial, una guía paso a paso o asistencia directa.
 
 ---
 
