@@ -12,7 +12,6 @@ Este es el repositorio oficial para el proyecto de ciberseguridad enfocado en so
 
 * **Días de trabajo:** [Martes, Miércoles, Viernes]
 * **Horario:** [14:30 - 16:00]
-* **Lugar o Plataforma:** [Insertar Lugar o Enlace a Discord/Teams]
 
 ---
 
