@@ -3,6 +3,7 @@
 
 # CTFos
 <img width="527" height="370" alt="logo-ctf" src="https://github.com/user-attachments/assets/5d2eae39-78e7-4987-b09f-58bd1978df67" />
+
 ## Proyecto de Ciberseguridad
 
 Este es el repositorio oficial para el proyecto de ciberseguridad CTFos de la asociacion OpenSource UPIITA
