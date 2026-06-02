@@ -1,7 +1,11 @@
-bandit0: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-bandit1: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-bandit2: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-bandit3: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-bandit4: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-bandit5: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-bandit6: 
+bandit00: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+bandit01: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit02: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+bandit03: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit04: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+bandit05: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit06: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+bandit07: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+bandit08: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+bandit09: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+bandit10: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
