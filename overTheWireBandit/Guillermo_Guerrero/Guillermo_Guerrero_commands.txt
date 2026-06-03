@@ -1,0 +1,2 @@
+bandit00: ls, cd, cat
+bandit01: ls, cd, cat, ./
