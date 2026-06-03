@@ -1,0 +1,7 @@
+comandos 1:
+	ls para la lista de los archivos
+	cat Concatena archivos e imprime en la salida estándar
+Comandos 2:
+	ls 
+	cat
+comandos 3
