@@ -1,0 +1,14 @@
+N1.
+Sólo se usó ls para ver el listado de archivos y cat para visualizar la contraseña.
+
+N2.
+Se usaron los comandos de find, ésto nos permitió localizar los archivos, y cat para visualizar la contraseña dentro del archivo.
+
+N3.
+Se usaron los mismos comandos que anteriormente se ocuparon, de la misma manera, find encuentra los archivos, y con cat ./--spaces in this filename-- nos dió la contraseña.
+
+N4.
+Se usó el comando de ls para listar los directorios, en el cual apareció inhere, con cd inhere se accede, y con find dentro del directorio se visualizan los archivos y sale uno de ./--Hiding-From-You y con un cat sale la contraseña.
+
+N5.
+Se listaron los directorios con ls, se accedió con cd al directorio, con el comando find se encuentran los archivos, y con cat y el nombre del archivo se van probando uno por uno.
