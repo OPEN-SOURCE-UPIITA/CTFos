@@ -4,3 +4,4 @@ bandit02: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 bandit03: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 bandit04: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 bandit05: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit06:
