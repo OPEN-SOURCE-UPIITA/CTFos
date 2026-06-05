@@ -2,6 +2,10 @@ comandos 1:
 	ls para la lista de los archivos
 	cat Concatena archivos e imprime en la salida estándar
 Comandos 2:
-	ls 
-	cat
-comandos 3
+	ls ,cat
+comandos 3:
+ ls, cd ~, cat -- "--spaces in this filename--" Esto le dice a Bash que ya no interprete nada como opción
+Comandos 4:
+	ls -a, cat "...Hiding-From-You"
+comandos 5:
+	ls , cd inhere, cat ./file*
