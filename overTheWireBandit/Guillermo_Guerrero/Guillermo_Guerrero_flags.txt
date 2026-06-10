@@ -1,7 +1,13 @@
-bandit00: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-bandit01: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-bandit02: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-bandit03: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-bandit04: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-bandit05: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-bandit06:
+llave para
+bandit01: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+bandit02: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit03: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+bandit04: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit05: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+bandit06: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit07: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+bandit08: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+badint09: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+bandit10: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+bandit11: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+bandit12: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
