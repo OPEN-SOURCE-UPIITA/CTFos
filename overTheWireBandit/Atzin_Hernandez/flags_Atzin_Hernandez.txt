@@ -11,7 +11,6 @@ bandit09: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 bandit10: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 bandit11: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4*
 bandit12: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
-bandit13: 
-
-
-scp -P 2220 bandi13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private /home/shaxin
+bandit13: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+bandit14: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+bandit15: 
