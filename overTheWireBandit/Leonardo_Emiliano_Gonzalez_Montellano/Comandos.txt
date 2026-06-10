@@ -9,3 +9,7 @@ Comandos 4:
 	ls -a, cat "...Hiding-From-You"
 comandos 5:
 	ls , cd inhere, cat ./file*
+comandos 6:
+	cd , ls -la, find . type f -size 1033c
+comandos 7:
+	
