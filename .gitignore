@@ -1,0 +1,3 @@
+# Claves privadas de Bandit
+*.private.txt
+*.sshkey
