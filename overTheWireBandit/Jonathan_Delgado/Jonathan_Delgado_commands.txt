@@ -1,0 +1,12 @@
+bandit05: cat maybehere07find . -type f -size 1033c \! -executable
+bandit06:find / -size 33c -group bandit6 -user bandit7
+bandit07:grep 'millionth' data.txt`
+bandit08:sort data.txt | uniq -c
+bandit10: base64 -d  data.txt 
+bandit11:cat data.txt |tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+bandit12: file, xxd -r, gzip -d, bzip2 -d, tar -xf.
+bandit13: cat sshey.private , chmod 400 (only readable) sshkey.private, ssh bandit14@abc -i sshkey.private
+bandit14: echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc 127.0.0.1 30000
+bandit15: openssl s_client 127.0.0.1:30001 -> 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+bandit16:  openssl s_client -quiet 127.0.0.1:31790  -> ".private" 

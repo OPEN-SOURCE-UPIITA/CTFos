@@ -9,3 +9,8 @@ bandit07: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 bandit08: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 bandit09: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 bandit10: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+bandit11: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4*
+bandit12: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+bandit13: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+bandit14: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+bandit15: 

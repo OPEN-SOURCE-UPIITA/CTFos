@@ -12,3 +12,41 @@ Se usó el comando de ls para listar los directorios, en el cual apareció inher
 
 N5.
 Se listaron los directorios con ls, se accedió con cd al directorio, con el comando find se encuentran los archivos, y con cat y el nombre del archivo se van probando uno por uno.
+
+N6.
+ls listar directorios
+cd cambiar directorios
+find . -size 1033c //c=bytes//find .= buscar en el directorio actual
+
+N7.
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+2>dev/null oculta errores de permisos
+/ busca en todo el servidor
+-user usuario
+-group grupo
+
+
+N8.
+grep "millionth" data.txt
+grep busca palabra o patron
+"" la palabra que se desea enconntrar
+.txt el archivo en donde se desea buscar
+
+N9.
+sort data.txt | uniq -u
+sort ordena lineas 
+| pasa el resultado obtenido al que sigue
+uniq busca lineas repetidas
+-u muestra las lineas que aparecen una vez
+
+N10.
+strings data.txt | grep "="
+strigs saca el texto legible por humanos de un archivo raro
+| pasa el resultado al siguiente
+grep "" busca las lineas que tengan lo que se solicita entre parentesis
+
+N11.
+base64 -d data.txt
+base64 sirve para codificar o decodificar Base64
+-d decodificar
+
