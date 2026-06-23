@@ -37,3 +37,36 @@ Nivel 7:
 Nivel 8:
 	ls
 	sort data.txt | uniq -c
+Nivel 9:
+	strings data.txt | grep "==="
+Nivel 10:
+	base64 --decode data.txt
+Nivel 11:
+	cat data.txt | tr "A-Za-z" "N-ZA-Mn-za-m"
+Nivel 12:
+	xxd -r data.txt | file -
+	xxd -r data.txt | gunzip -c | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | file-
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | tar -xO | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | tar -xO | bzip2 -dc | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | tar -xO | bzip2 -dc | tar -xO | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | tar -xO | bzip2 -dc | tar -xO | gunzip -c | file -
+	xxd -r data.txt | gunzip -c | bzip2 -dc | gunzip -c | tar -xO | tar -xO | bzip2 -dc | tar -xO | gunzip -c | cat
+Nivel 13:
+	https ://youtu.be/pmdqVssTeOI?si=g_h-aEIcgTJlUP_i #quitar espacios
+Nivel 14:
+	nc localhost 30000
+	//Poner contraseña
+Nivel 15:
+	ncat --ssl localhost 30001
+	//Contraseña
+Nivel 16: nmap -Vs -p 31000-32000 localhost
+	ncat --sl localhost puerto
+	//contraseña
+Nivel 17: diff password.old password.new
+
+Nivel 18: https: //youtu.be /G07CB-occe8?si=O0v9fp-pENs9xWDE  #quitar espacios
+ 
+Nivel 19: ./bandit20-do cat /etc/bandit_pass/bandit20

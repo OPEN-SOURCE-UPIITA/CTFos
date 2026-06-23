@@ -1,10 +1,20 @@
-nivel 0: bandit0
-nivel 1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-nivel 2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-nivel 3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-nivel 4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-nivel 5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-nivel 6: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-nivel 7: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
-nivel 8: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-nivel 9: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+}nivel 0: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+nivel 1: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+nivel 2: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+nivel 3: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+nivel 4: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+nivel 5: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+nivel 6: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+nivel 7: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+nivel 8: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+nivel 9: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+Nivel 10: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+Nivel 11: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+Nivel 12: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+Nivel 13: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS **
+Nivel 14: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+Nivel 15: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+Nivel 16: EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+Nivel 17: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+Nivel 18: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 **
+Nivel 19: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
