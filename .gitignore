@@ -1,3 +1,4 @@
-# Claves privadas de Bandit
+*.gitignore
 *.private.txt
 *.sshkey
+administracion/
