@@ -1,4 +1,5 @@
-bandit05: cat maybehere07find . -type f -size 1033c \! -executable
+bandit04: file -N  inhere/* -> cat inhere/"-file07"
+bandit05: cat maybehere07\\ find . -type f -size 1033c \! -executable
 bandit06:find / -size 33c -group bandit6 -user bandit7
 bandit07:grep 'millionth' data.txt`
 bandit08:sort data.txt | uniq -c
