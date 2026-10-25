@@ -1,4 +1,3 @@
-
 flag1-2 cat ./-
 flag2-3 cat -- <file_name>
 flag3-4 cat ./...
@@ -26,3 +25,5 @@ flag27-28 git clone <direccion>
 flag28-29 git log -p
 flag29-30 git checkout <rama>
 flag30-31 git tag 
+flag31-32 git add && git commit && git push -u origin
+flag32-33 $0
