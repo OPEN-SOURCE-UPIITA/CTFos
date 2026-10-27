@@ -1,0 +1,29 @@
+flag1-2 cat ./-
+flag2-3 cat -- <file_name>
+flag3-4 cat ./...
+flag5-6 find -size '<#bytes>c'
+flag6-7 find -size '33c' -user <usuario> -group <grupo>
+flag7-8 grep -E "expresion regular *" archivo.txt
+flag8-9 sort <archivo> | uniq -u
+flag9-10 strings -Ud data.txt | grep -E "*= "
+flag10-11 base64 -d <archivo>
+flag11-12 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m' 
+flag12-13 xxd -r <archivo> > archivo.bin |file archivo.bin|  |gzip -d| |bzip2 -d| |tar -xf| 
+flag13-14 scp -P 2220 bandit13@bandit.labs.overthewire.org:sshkey.private ~/sshkey.private
+flag14-15 nc localhost 30000
+flag15-16 openssl s_client -connect localhost:30001
+flag16-17 nmap -p31000-32000 localhost | openssl s_client -connect localhost:ports -quiet 
+flag17-18 diff archivo1 archivo2
+flag18-19 scp -P 2220 bandit18@bandit.labs.overthewire.org:readme ~/readme
+flag19-20 ./filebinary cat /etc/bandit_pass/bandit20
+flag20-21 nc -l -p <puerto por el que queiro escuchar>
+flag21-22 cat
+flag22-23 cat
+flag23-24 cat /etc/bandit_pass/bandit24 >> /tmp/contra_24 en un .sh y lo copias en donde se esta ejecutando
+flag24-25 nc localhost <#puerto>
+flag27-28 git clone <direccion>
+flag28-29 git log -p
+flag29-30 git checkout <rama>
+flag30-31 git tag 
+flag31-32 git add && git commit && git push -u origin
+flag32-33 $0
