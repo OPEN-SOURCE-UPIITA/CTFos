@@ -25,3 +25,9 @@ flag23-24 hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
 flag24-25 SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
 flag25-26 **
 flag26-27 STJLJBRRphMxKB392CT4iOr5CbzPU9ER
+flag27-28 y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ
+flag28-29 Em7eGtqaMySwNFjCpwzzHhLhospOcdt0
+flag29-30 jq9Dfg2rXsfYsWMgFuKlXhphjdH7USgX *
+flag30-31 82NkymblpGBYmIXG6ZQ8YldBYstHpfUf **
+flag31-32 pWuj5jBQ6IgV0NXwiH6g1pXRF8S1YvbT *
+flag32-33 u4P2CyPOwPGLe94RdD9Uo2FxFwvnFswM *
