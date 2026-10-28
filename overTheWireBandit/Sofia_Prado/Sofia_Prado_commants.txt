@@ -1,0 +1,3 @@
+cat  me funciona para leer documentos
+para encontrar archivos en específico uso /home/mi usuario/el nombre del archivo y para leerlo o abrirlo uso cat
+para salir de un ssh uso exit
