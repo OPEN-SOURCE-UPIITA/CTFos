@@ -1,0 +1,3 @@
+flag0-1 grep "password" ./.backup/*.html
+flag1-2 lstrace ./"programa" <para ver que va haciendo el programa>
+flag2-3 ln <haces un apuntador a la ocntraseña de leviathan3 para que la lea que es el qeeu tiene permiso>
