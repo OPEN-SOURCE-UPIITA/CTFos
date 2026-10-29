@@ -1,0 +1,5 @@
+flag0-1 grep "password" ./.backup/*.html
+flag1-2 lstrace ./"programa" <para ver que va haciendo el programa>
+flag2-3 ln <haces un apuntador a la ocntraseña de leviathan3 para que la lea que es el qeeu tiene permiso>
+flag3-4 ltrace <ves con que compara y te manda a un sh y ahi eres leviathan4>
+flag4-5 ./bin | perl -lpe '$_=pack "B*", join("", split / /)'   
