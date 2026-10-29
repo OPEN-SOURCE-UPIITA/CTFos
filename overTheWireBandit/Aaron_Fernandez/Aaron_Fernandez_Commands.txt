@@ -1,2 +1,3 @@
 Cat:apertuda de documentos (similar)
 Todo archivo se llama "home/User/name"
+./* : Toda especifcacion de los documentos
