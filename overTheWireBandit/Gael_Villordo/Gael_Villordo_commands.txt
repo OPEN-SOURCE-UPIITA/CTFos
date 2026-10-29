@@ -1,4 +1,3 @@
-BANDIT
 Nivel 0->1:
 	ssh bandit0@bandit.labs.overthewire.org -p 2220
 	ls
@@ -112,9 +111,3 @@ Nivel 31->32: git add
 	git push origin master
 Nivel 32->33: $0
 	./uppershell | cat etc/bandit_pass/bandit33
-
-LEVIATHAN
-
-Nivel 0->1: ls -la
-	cd .backup
-	grep -n -A 3 "leviathan" bookmarks.html

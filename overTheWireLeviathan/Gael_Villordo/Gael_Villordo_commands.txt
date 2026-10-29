@@ -1,0 +1,5 @@
+Nivel 0->1: ls -la 
+	cd .backup
+	grep -n -A 3 "leviathan" bookmarks.html
+Nivel 1->2: https://mayadevbe.me/posts/overthewire/leviathan/level2/
+

@@ -1,4 +1,3 @@
-BANDIT
 nivel 0->1: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 nivel 1->2: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 nivel 2->3: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
@@ -32,6 +31,3 @@ Nivel 29->30: jq9Dfg2rXsfYsWMgFuKlXhphjdH7USgX
 Nivel 30->31: 82NkymblpGBYmIXG6ZQ8YldBYstHpfUf
 Nivel 31->32: pWuj5jBQ6IgV0NXwiH6g1pXRF8S1YvbT
 Nivel 32->33: u4P2CyPOwPGLe94RdD9Uo2FxFwvnFswM
-
-LEVIATHAN
-Nivel 0->1: PiXaSWQqHq
