@@ -2,3 +2,6 @@ cat  me funciona para leer documentos
 para encontrar archivos en específico uso /home/mi usuario/el nombre del archivo y para leerlo o abrirlo uso cat
 para salir de un ssh uso exit
 file ./* ./ ( es el caractes de todos los documentos que mostró ls -la) * (es ubicate aquí)
+git add .
+git commit -m "Bandera 2 a 5"
+git push origin sofia_prado
