@@ -5,3 +5,16 @@ file ./* ./ ( es el caractes de todos los documentos que mostró ls -la) * (es u
 git add .
 git commit -m "Bandera 2 a 5"
 git push origin sofia_prado
+find . -size 1033c      (el punto es para indicar "busca desde aquí"/ c significa bytes)
+2>/dev/null    para acceder a documentos denegados
+grep "millionth" data.txt      grep "palabra con la que inicia la línea" nomre del texto.txt
+sort data.txt | uniq -u    sort es para ordenar el contenido del documento, | es una pipe que une el comando de sort con el de unique, es como un "y", uniq es para mostrar las lineas repeditas, pero -u habla de las lineas que no estan repetidas
+
+PARA LA BANDERA 9 USÉ DOS COMANDO UNO MENOS ESPECÍFICO QUE OTRO=
+Sort data.txt | strings -f    ( -f) para solo tener texto que se pueda leer)
+strings data.txt | grep "="   le dije, (con strings) lee solo lo que un humano osea nada binario pueda leer) de ese documento "y" busca lo que inicie con =
+base64 -d  data.txt  (base64 es para cuando esta codificado para que sea un texto seguro en letras, puede convertir el texto a base64 p al reves) (-d para decodificar el texto)
+
+PARA EL NIVEL 11 USAS CODIGO CÉSAR
+cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+Me dice que esta rotado 13 posiciones, Linux usa el abecedario en inglés osea 26 letras, entonces de (A-M) son 13 y de (N-Z) con otras 13 como dice que se recorren, entonces no empezamos con A si no con N por eso se escribe 'N-ZA-Mn-za-m' y esa parte del codigo es la salida, la entrada es 'A-Za-z' y (tr) es para sustiruir o intercambiar carácteres
