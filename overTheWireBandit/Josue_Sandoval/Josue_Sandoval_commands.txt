@@ -1,0 +1,7 @@
+flag{6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR}:
+	cat readme
+
+flag{PK8fYLZg2hnHSz83plBL1iEPKdD3QToB}"
+	ls -la
+	file -m -
+
