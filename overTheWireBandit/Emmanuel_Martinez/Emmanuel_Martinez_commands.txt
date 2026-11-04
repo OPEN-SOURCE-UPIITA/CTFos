@@ -1,9 +1,32 @@
-Commands Nivel 0
-
+Commands 
+Nivel 0
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ls
 cat readme
 
 Nivel 1
+ssh bandit1@bandit.labs.overthewire.org -p 2220
 ls
 cat ./-
+
+Nivel 2
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+ls
+cat "./--spaces in this filename"
+
+Nivel 3
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+ls 
+cd inhere
+ls -a (muestra el archivo oculto) 
+cat ...Hiding-From-You
+
+Nivel 4
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+ls
+cd inhere
+ls 
+file ./*      (muestra todos los archivos y su naturaleza)
+cat ./-file07 
+
+nivel 5
