@@ -18,3 +18,9 @@ base64 -d  data.txt  (base64 es para cuando esta codificado para que sea un text
 PARA EL NIVEL 11 USAS CODIGO CÉSAR
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 Me dice que esta rotado 13 posiciones, Linux usa el abecedario en inglés osea 26 letras, entonces de (A-M) son 13 y de (N-Z) con otras 13 como dice que se recorren, entonces no empezamos con A si no con N por eso se escribe 'N-ZA-Mn-za-m' y esa parte del codigo es la salida, la entrada es 'A-Za-z' y (tr) es para sustiruir o intercambiar carácteres
+
+Para gzip usas mv para cambiar el nombre de tu archivo.gz, (ejemplo mv nombreactual y terminación   nombre nuevo y terminación) y descomprimes con gzip -d archivo
+
+Para POSIX tar descombrimes con tar -x -f archivo a descomprimir
+
+Para bzip2 nombras nuevamente con mv archivo a archivo.bz usas bzip2 -d archivo.
