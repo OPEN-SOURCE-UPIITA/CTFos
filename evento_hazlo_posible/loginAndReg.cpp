@@ -6,7 +6,6 @@
 #include <QMainWindow>
 #include <QWidget>
 #include <QMessageBox>
-#include "main.moc" // Necesario si defines clases con Q_OBJECT en un solo archivo .cpp
 
 #include "ui_loginwindow.h"
 #include "ui_registerdialog.h"
@@ -50,30 +49,6 @@ void registerNewUser(const string &username,
   
 }
 
-bool verifyLogin(const string& username, const string& password, const string& filename) {
-    ifstream inFile(filename);
-    if (!inFile) {
-        return false;
-    }
-    string line;
-    string record = username + ',' + password;
-    while (getline(inFile, line)) {
-        if (line == record) {
-            return true;
-        }
-    }
-    return false;
-}
-
-void registerNewUser(const string& username, const string& password, const string& filename) {
-    ofstream outFile(filename, ios::app);
-    if (!outFile) {
-        return;
-    }
-    outFile << username << "," << password << "\n";
-}
-
-// --- CLASE DE LA VENTANA DE REGISTRO ---
 class RegisterWidget : public QWidget {
     Q_OBJECT
 public:
@@ -146,3 +121,5 @@ int main(int argc, char *argv[]) {
 
     return app.exec();
 }
+
+#include "loginAndReg.moc"
