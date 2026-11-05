@@ -24,3 +24,6 @@ Para gzip usas mv para cambiar el nombre de tu archivo.gz, (ejemplo mv nombreact
 Para POSIX tar descombrimes con tar -x -f archivo a descomprimir
 
 Para bzip2 nombras nuevamente con mv archivo a archivo.bz usas bzip2 -d archivo.
+
+ssh -p 2220  bandit14@bandit.labs.overthewire.org -i /home/sofia/Escritorio/13.private
+(-i para documentos, la dirección del documento, .private es para que lea el ssh que fue del nivel pasado, si no tiene el private no lo puede leer)
