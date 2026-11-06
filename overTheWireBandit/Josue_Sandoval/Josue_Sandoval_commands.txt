@@ -1,0 +1,28 @@
+flag{6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR}:
+	cat readme
+
+flag{PK8fYLZg2hnHSz83plBL1iEPKdD3QToB}
+	ls -la
+	file -m -
+
+flag{7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME}
+	ls -la
+	cat/home/bandit2/--spaces\ in\ this\ filename--
+	bonus: 
+	file -m --spaces\ in\ this\ filename-- usando ese comando te aparece 'Warning: type `ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME' invalid
+file: could not find any valid magic files! (No such file or directory)'
+y así se ve la flag de otra forma
+
+flag{xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq}
+	ls -la
+	cd inhere/
+	cat ...Hiding-From-You
+
+flag{6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG}
+	ls -la
+	cd inhere/
+	ls -la
+	file ./*
+	cat ./-file07
+
+
