@@ -2,3 +2,5 @@
 *.private.txt
 *.sshkey
 administracion/
+
+*evento_hazlo_posible/loginAndRegistration/*
