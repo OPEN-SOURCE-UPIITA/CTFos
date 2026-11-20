@@ -1,1 +1,32 @@
-hola
+Bandit 0 commands:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+ls
+cat readme
+
+Bandit 1 commands:
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+ls
+cat ./-
+
+Bandit 2 commands:
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+ls
+cat ./"--spaces in this filename--"
+
+Bandit 3 commands:
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+ls -a
+cat ...Hidding-From-You
+
+Bandit 4 commands:
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+ls
+cat ./-file07
+
+Bandit 5 commands:
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+ls
+cd inhere
+du -b -a
+cd maybehere07
+cat ./.file2
