@@ -1,18 +1,38 @@
-Bandit 0 flag (Bandera obtenida de manera limpia):
+Bandit 0 flag:
 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 
-Bandit 1 flag (Bandera obtenida de manera limpia):
+Bandit 1 flag:
 PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 
-Bandit 2 flag (Bandera obtenida de manera limpia):
+Bandit 2 flag:
 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
 
-Bandit 3 flag (Bandera obtenida de manera limpia):
+Bandit 3 flag:
 xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
 
-Bandit 4 flag (Bandera obtenida de manera limpia):
+Bandit 4 flag:
 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
 
-Bandit 5 flag (Bandera obtenida de manera limpia):
+Bandit 5 flag:
 pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
 
+Bandit 6 flag:
+Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+
+Bandit 7 flag:
+VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+
+Bandit 8 flag:
+EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+
+Bandit 9 flag:
+B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+
+Bandit 10 flag:
+pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+
+Bandit 11 flag:
+GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
+
+Bandit 12 flag:
+GROozWPO8QyN0mGrjUkID0WCYkZiQxrN

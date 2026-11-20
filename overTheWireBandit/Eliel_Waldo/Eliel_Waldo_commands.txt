@@ -30,3 +30,34 @@ cd inhere
 du -b -a
 cd maybehere07
 cat ./.file2
+
+Bandit 6 commands:
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+find / -user bandit7 2>/dev/null -group bandit6 -size 33c
+cd /var/lib/dpkg/info
+cat bandit7.password
+
+Bandit 7 commands:
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+ls
+grep millionth data.tex
+
+Bandit 8 commands:
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+ls
+sort data.txt | uniq -u
+
+Bandit 9 commands:
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+ls
+uniq -u data.txt | strings | grep ===
+
+Bandit 10 commands:
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+ls
+base64 -d data.txt
+
+Bandit 11 commands:
+ssh bandit11@bandit.labs.overthewire.org -p 2220
+ls
+tr < data.txt 'A-Za-z' 'N-ZA-Mn-za-m'
