@@ -17,3 +17,4 @@ ls -la
 10 base64 -d file
 11 rot13= tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "cadena de carcateres"
 12 xxd -r data.bin data.1(pasa de hexdump a binario) gunzip para .gz bunzip2 .bz2 tar -xf para .tar y mv para mover o renombrar
+13 ssh bandit14@bandit.labs.overthewire.org -p 2220 -i /home/kali/bandit14.private chmod 600 bandit14.private 
