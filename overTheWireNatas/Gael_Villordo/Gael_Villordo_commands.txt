@@ -1,0 +1,3 @@
+Nivel 0->1: CTRL + Shift + C
+Nivel 1->2: CTRL + Shift + C + Leer
+
