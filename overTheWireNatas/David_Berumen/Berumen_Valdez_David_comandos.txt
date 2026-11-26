@@ -1,1 +1,2 @@
 Natas 2, tienes que explotar la vulnerabilidad de qeu puedes acceder a los /files 
+Natas3, se tiene que usar /robots.txt, el cual es un programa que nos dice las carpetas a las que se tiene acceso y en otra nos dice que no tienes acceso
