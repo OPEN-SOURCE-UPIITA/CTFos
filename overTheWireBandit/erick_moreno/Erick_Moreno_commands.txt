@@ -1,0 +1,18 @@
+cat./- to open file called -
+
+usar ''
+
+ls -la
+
+
+
+
+
+
+
+6 find /- user -group 2>/dev/null
+7 grep "millionth" data.txt
+8 sort file | uniq -u
+9 strings file
+10 base64 -d file
+11 rot13= tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "cadena de carcateres"

@@ -1,0 +1,6 @@
+Tutorial 101: 80/tcp
+	ETSCTF_FLAGS
+	60123/tcp
+	ENV_FLAG 
+	print open("/root/ETSCTF", "r").read() 
+	ETSCTF_SHADOW 
