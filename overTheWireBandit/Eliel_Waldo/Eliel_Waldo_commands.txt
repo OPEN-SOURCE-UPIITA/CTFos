@@ -61,3 +61,45 @@ Bandit 11 commands:
 ssh bandit11@bandit.labs.overthewire.org -p 2220
 ls
 tr < data.txt 'A-Za-z' 'N-ZA-Mn-za-m'
+
+Bandit 12 commands:
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+ls
+mktemp -d
+cp data.txt /tmp/tmp.wlPtYVtKxr
+cd /tmp/tmp.wlPtYVtKxr
+mv data.txt datos.txt
+file datos.txt
+xxd -r datos.txt datos1
+file datos1
+mv datos1 datos.gz
+gzip -d datos1.gz
+mv datos1.out datos1.gz
+gzip -d datos1.gz
+file datos1
+mkdir hola1
+cp datos1 hola1/
+cd hola1
+tar -xf datos1
+ls
+tar -xf data5.bin
+ls
+tar -xf data6.bin
+ls
+file data8.bin
+mv data8.bin data8.gz
+gzip -d data8.gz
+file data8
+cat data8
+
+Bandit 13 commands:
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+ls -la
+cat sshkey.private
+exit
+scp -P 2220 bandit13@bandit.labs.overthewire.org:sshkey.private .
+ls -l sshkey.private
+chmod 600 sshkey.private
+ls -l sshkey.private
+ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
+cat /etc/bandit_pass/bandit14
