@@ -1,1 +1,105 @@
-hola
+Bandit 0 commands:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+ls
+cat readme
+
+Bandit 1 commands:
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+ls
+cat ./-
+
+Bandit 2 commands:
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+ls
+cat ./"--spaces in this filename--"
+
+Bandit 3 commands:
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+ls -a
+cat ...Hidding-From-You
+
+Bandit 4 commands:
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+ls
+cat ./-file07
+
+Bandit 5 commands:
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+ls
+cd inhere
+du -b -a
+cd maybehere07
+cat ./.file2
+
+Bandit 6 commands:
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+find / -user bandit7 2>/dev/null -group bandit6 -size 33c
+cd /var/lib/dpkg/info
+cat bandit7.password
+
+Bandit 7 commands:
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+ls
+grep millionth data.tex
+
+Bandit 8 commands:
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+ls
+sort data.txt | uniq -u
+
+Bandit 9 commands:
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+ls
+uniq -u data.txt | strings | grep ===
+
+Bandit 10 commands:
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+ls
+base64 -d data.txt
+
+Bandit 11 commands:
+ssh bandit11@bandit.labs.overthewire.org -p 2220
+ls
+tr < data.txt 'A-Za-z' 'N-ZA-Mn-za-m'
+
+Bandit 12 commands:
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+ls
+mktemp -d
+cp data.txt /tmp/tmp.wlPtYVtKxr
+cd /tmp/tmp.wlPtYVtKxr
+mv data.txt datos.txt
+file datos.txt
+xxd -r datos.txt datos1
+file datos1
+mv datos1 datos.gz
+gzip -d datos1.gz
+mv datos1.out datos1.gz
+gzip -d datos1.gz
+file datos1
+mkdir hola1
+cp datos1 hola1/
+cd hola1
+tar -xf datos1
+ls
+tar -xf data5.bin
+ls
+tar -xf data6.bin
+ls
+file data8.bin
+mv data8.bin data8.gz
+gzip -d data8.gz
+file data8
+cat data8
+
+Bandit 13 commands:
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+ls -la
+cat sshkey.private
+exit
+scp -P 2220 bandit13@bandit.labs.overthewire.org:sshkey.private .
+ls -l sshkey.private
+chmod 600 sshkey.private
+ls -l sshkey.private
+ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
+cat /etc/bandit_pass/bandit14
