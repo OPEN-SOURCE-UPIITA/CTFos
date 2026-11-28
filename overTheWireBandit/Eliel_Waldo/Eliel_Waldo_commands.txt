@@ -103,3 +103,12 @@ chmod 600 sshkey.private
 ls -l sshkey.private
 ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
 cat /etc/bandit_pass/bandit14
+
+Bandit 14 commands:
+ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
+nc localhost 30000
+aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+
+Bandit 15 commands:
+ssh bandit15@bandit.labs.overthewire.org -p 2220
+openssl s_client -connect localhost:30001
