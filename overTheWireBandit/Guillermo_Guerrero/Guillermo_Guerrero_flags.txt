@@ -1,6 +1,7 @@
 llave para
-bandit01: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-bandit02: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit01: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+bandit02: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+
 bandit03: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 bandit04: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 bandit05: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
